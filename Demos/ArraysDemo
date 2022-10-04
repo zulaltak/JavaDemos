@@ -1,5 +1,3 @@
-package video14;
-
 public class ArraysDemo {
 
 	public static void main(String[] args) {
